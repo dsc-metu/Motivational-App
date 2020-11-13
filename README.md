@@ -19,3 +19,9 @@ How to add app icons.
 
 # Final Version of the App
 
+![Final Version of App](https://user-images.githubusercontent.com/71099030/99025095-19db3900-2579-11eb-95f1-829f46af8c44.png)
+
+# Resources for the App
+
+
+
