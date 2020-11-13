@@ -15,7 +15,7 @@ How to add app icons.
 
 # Outline of the App
 
-![Motivational-App-Outline](https://user-images.githubusercontent.com/71099030/99024451-ab49ab80-2577-11eb-8579-261b2c4fda63.png)
+![Motivational App Outline](https://user-images.githubusercontent.com/71099030/99024956-bfda7380-2578-11eb-871a-e3d7d2ff89b5.png)
 
 # Final Version of the App
 
