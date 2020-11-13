@@ -5,7 +5,6 @@ This app is for the workshop held by Developer Student Clubs Middle East Technic
 ## Workshop Content
 
 In this app, aim is to learn some basic UI elements using Material App.
-  - Material App
   - Scaffold
   - App Bar
   - Center
