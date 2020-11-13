@@ -13,7 +13,7 @@ In this app, aim is to learn some basic UI elements using Material App.
   
 How to add app icons.
 
-# Outline of the app
+# Outline of the App
 
 
 
