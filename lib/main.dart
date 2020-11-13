@@ -4,10 +4,10 @@ void main() {
   runApp(
     // MaterialApp class: An application that uses material design.
     MaterialApp(
-      // home property: This is the route that is displayed first when the application is started normally
+      // home property: This is the route that is displayed first when the application is started normally.
       // Scaffold class: Implements the basic material design visual layout structure.
       home: Scaffold(
-          //backgroundColor property: Background color of the current widget
+          //backgroundColor property: Background color of the current widget.
           backgroundColor: Colors.blue[100],
           //appBar property: An app bar to display at the top of the scaffold.
           appBar: AppBar(
@@ -18,7 +18,7 @@ void main() {
               //child property: A widget that is in another widget.
               child: Text('Motivational App'),
             ),
-            //backgroundColor property: Background color of the current widget
+            //backgroundColor property: Background color of the current widget.
             backgroundColor: Colors.blue[300],
           ),
           // body property: The primary content of the scaffold.
