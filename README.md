@@ -4,13 +4,13 @@ This app is for the workshop held by Developer Student Clubs Middle East Technic
 
 ## Workshop Content
 
-In this app, aim is to learn some basic UI elements using Material App.
+In this app, aim is to learn some basic UI elements using Material App such as
   - Scaffold
   - App Bar
   - Center
   - Image
   
-How to add app icons.
+  - And how to add app icons.
 
 ## Resource for the App Icon
 
