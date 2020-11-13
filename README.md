@@ -11,7 +11,7 @@ In this app, aim is to learn some basic UI elements using Material App such as
   - Image
   - Asset Image
   
-  And how to add app icons.
+  and how to add app icons.
 
 ## Resource for the App Icon
 
