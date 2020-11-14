@@ -17,6 +17,9 @@ In this app, aim is to learn some basic UI elements using Material App such as
 
 ![Motivational App Icon](https://user-images.githubusercontent.com/71099030/99025359-ab4aab00-2579-11eb-957f-53ff571a8580.png)
 
+## Image Asset
+
+
 ## Outline of the App
 
 ![Motivational App Outline](https://user-images.githubusercontent.com/71099030/99024956-bfda7380-2578-11eb-871a-e3d7d2ff89b5.png)
